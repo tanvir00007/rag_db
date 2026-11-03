@@ -1,0 +1,2 @@
+# The database setup scripts split SQL files on ";\n", so keep LF on every checkout.
+*.sql text eol=lf
